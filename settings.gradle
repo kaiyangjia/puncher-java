@@ -1,2 +1,3 @@
-rootProject.name = 'puncher'
+rootProject.name = 'puncher-java'
+include 'puncher'
 
